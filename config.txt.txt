@@ -1,0 +1,4 @@
+name = Radoslav
+ size =111
+
+e-mail: radi.g.todorov@gmail.com
